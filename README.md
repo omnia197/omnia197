@@ -13,7 +13,7 @@ Passionate about developing intelligent systems that bridge technology and human
 Committed to ethical AI development and responsible innovation.
 
 <p align="center">
-  <img src="https://github.com/omnia197/ReadMe/blob/main/r.gif" width="400"/>
+  <img src="https://github.com/omnia197/omnia197/blob/main/r.gif" width="400"/>
 </p>
 
 </div>
